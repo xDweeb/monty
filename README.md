@@ -110,16 +110,8 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 <details>
     <summary>Suara Ayomide</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Chukwuoma Chizoba</summary>
-    <ul>
-    <li><a href="https://www.github.com/classychizzy">Github</a></li>
-    <li><a href="https://www.twitter.com/Classy_chizzy">Twitter</a></li>
-    <li><a href="mailto:chizobachukwuoma@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/xDweeb">Github</a></li>
+    <li><a href="https://www.twitter.com/elyakoutiweb">Twitter</a></li>
+    <li><a href="mailto:xdweb.elyakouti@gmail.com">e-mail</a></li>
     </ul>
 </details>
